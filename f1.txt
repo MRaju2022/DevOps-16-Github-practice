@@ -1,5 +1,13 @@
 Hello Friends! Good Morning....
 
+
 # This changes are for task id: 1002
 Hellow friends , welcome to Java classes
 Hellow riends, welcome to python classes
+
+# This changes for task id: 1001
+
+Hello friends welcome to DevOps classes
+Hello friends welcome to AWS Classes
+Hello riends, welcome to Azure classes
+
