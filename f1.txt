@@ -11,3 +11,5 @@ Hello friends welcome to DevOps classes
 Hello friends welcome to AWS Classes
 Hello riends, welcome to Azure classes
 
+# To chech git pull command
+
