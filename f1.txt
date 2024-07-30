@@ -14,3 +14,5 @@ Hello riends, welcome to Azure classes
 # To chech git pull command
 
 # This is for git fetch
+
+# Practicing git branches
